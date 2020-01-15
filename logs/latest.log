@@ -1,0 +1,18 @@
+[00:37:24] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/32706, l='world', x=187.13, y=62.00, z=-51.60]
+[00:46:06] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/33541, l='world', x=189.46, y=62.05, z=-49.29]
+[01:08:27] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/35529, l='world', x=187.57, y=62.00, z=-48.49]
+[01:50:48] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/39119, l='world', x=186.93, y=62.00, z=-51.00]
+[02:01:13] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/40022, l='world', x=187.35, y=62.00, z=-49.60]
+[02:25:14] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/42099, l='world', x=185.48, y=62.00, z=-49.14]
+[02:43:03] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/43573, l='world', x=186.64, y=62.00, z=-49.99]
+[02:49:38] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/44154, l='world', x=187.92, y=62.00, z=-49.06]
+[03:12:20] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/46105, l='world', x=186.11, y=62.00, z=-51.54]
+[03:35:06] [Server thread/INFO]: Villager axt['Cartographer'/35, l='world', x=159.43, y=66.00, z=-2.09] died, message: 'Cartographer was shot by Pillager'
+[04:28:03] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/52788, l='world', x=186.43, y=62.00, z=-48.47]
+[04:50:14] [Server thread/INFO]: chinaniubi lost connection: Timed out
+[04:50:14] [Server thread/INFO]: chinaniubi left the game
+[04:50:14] [Server thread/WARN]: handleDisconnection() called twice
+[07:22:06] [Server thread/INFO]: chinaniubi[/27.187.73.94:21140] logged in with entity id 54506 at (186.469446844596, 73.5, -57.69999998807907)
+[07:22:06] [Server thread/INFO]: chinaniubi joined the game
+[07:33:45] [Server thread/INFO]: chinaniubi lost connection: Disconnected
+[07:33:45] [Server thread/INFO]: chinaniubi left the game

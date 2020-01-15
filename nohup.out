@@ -1,0 +1,85 @@
+[22:34:06] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:34:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:34:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:34:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:34:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:34:06] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[22:34:06] [Server thread/INFO]: Loading properties
+[22:34:06] [Server thread/INFO]: Default game type: SURVIVAL
+[22:34:06] [Server thread/INFO]: Generating keypair
+[22:34:06] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at wd$2.run(SourceFile:109) [server.jar:?]
+[22:34:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:34:07] [Server thread/INFO]: Using epoll channel type
+[22:34:08] [Server thread/INFO]: Preparing level "world"
+[22:34:08] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:34:45] [Server thread/INFO]: Loaded 6 recipes
+[22:34:51] [Server thread/INFO]: Loaded 825 advancements
+[22:34:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:34:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:34:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:34:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:34:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:34:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:34:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:34:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:34:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:34:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:34:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:35:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:35:01] [Server thread/INFO]: Preparing spawn area: 0%
+[22:35:01] [Server thread/INFO]: Preparing spawn area: 0%
+[22:35:01] [Server thread/INFO]: Preparing spawn area: 0%
+[22:35:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:35:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:35:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:35:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:35:01] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:35:01] [Server-Worker-1/INFO]: Preparing spawn area: 1%
+[22:35:02] [Server-Worker-1/INFO]: Preparing spawn area: 15%
+[22:35:02] [Server-Worker-1/INFO]: Preparing spawn area: 17%
+[22:35:03] [Server-Worker-1/INFO]: Preparing spawn area: 20%
+[22:35:04] [Server-Worker-1/INFO]: Preparing spawn area: 23%
+[22:35:04] [Server-Worker-1/INFO]: Preparing spawn area: 23%
+[22:35:05] [Server-Worker-1/INFO]: Preparing spawn area: 23%
+[22:35:05] [Server-Worker-1/INFO]: Preparing spawn area: 24%
+[22:35:05] [Server-Worker-1/INFO]: Preparing spawn area: 26%
+[22:35:06] [Server-Worker-1/INFO]: Preparing spawn area: 29%
+[22:35:06] [Server thread/INFO]: Preparing spawn area: 32%
+[22:35:07] [Server-Worker-1/INFO]: Preparing spawn area: 36%
+[22:35:07] [Server-Worker-1/INFO]: Preparing spawn area: 38%
+[22:35:08] [Server-Worker-1/INFO]: Preparing spawn area: 40%
+[22:35:08] [Server-Worker-1/INFO]: Preparing spawn area: 41%
+[22:35:09] [Server-Worker-1/INFO]: Preparing spawn area: 43%
+[22:35:09] [Server-Worker-1/INFO]: Preparing spawn area: 47%
+[22:35:10] [Server-Worker-1/INFO]: Preparing spawn area: 49%
+[22:35:10] [Server thread/INFO]: Preparing spawn area: 50%
+[22:35:11] [Server-Worker-1/INFO]: Preparing spawn area: 53%
+[22:35:11] [Server-Worker-1/INFO]: Preparing spawn area: 55%
+[22:35:12] [Server-Worker-1/INFO]: Preparing spawn area: 58%
+[22:35:12] [Server-Worker-1/INFO]: Preparing spawn area: 62%
+[22:35:13] [Server thread/INFO]: Preparing spawn area: 77%
+[22:35:13] [Server thread/INFO]: Preparing spawn area: 84%
+[22:35:14] [Server thread/INFO]: Preparing spawn area: 86%
+[22:35:14] [Server thread/INFO]: Preparing spawn area: 89%
+[22:35:15] [Server thread/INFO]: Preparing spawn area: 91%
+[22:35:15] [Server thread/INFO]: Preparing spawn area: 93%
+[22:35:16] [Server thread/INFO]: Preparing spawn area: 95%
+[22:35:16] [Server thread/INFO]: Time elapsed: 24513 ms
+[22:35:16] [Server thread/INFO]: Done (68.778s)! For help, type "help"
+[22:41:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@2e87f5f7[id=<null>,name=优月,properties={},legacy=false] (/183.195.13.229:14512) lost connection: Disconnected
+[22:41:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f0921bc[id=<null>,name=优月,properties={},legacy=false] (/183.195.13.229:14599) lost connection: Disconnected
+[22:41:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c04ac49[id=<null>,name=优月,properties={},legacy=false] (/183.195.13.229:14655) lost connection: Disconnected
+[22:41:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@1365a9aa[id=<null>,name=优月,properties={},legacy=false] (/183.195.13.229:14725) lost connection: Disconnected

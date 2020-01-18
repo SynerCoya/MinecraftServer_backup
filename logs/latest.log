@@ -1,134 +1,17 @@
-[08:34:51] [Server thread/INFO]: youyue_nya[/183.195.13.229:14625] logged in with entity id 298139 at (70.36901473658504, 66.0, 155.0007047580427)
-[08:34:51] [Server thread/INFO]: youyue_nya joined the game
-[08:46:58] [Server thread/WARN]: Horse moved wrongly!
-[08:49:30] [Server thread/WARN]: Horse moved wrongly!
-[08:49:30] [Server thread/WARN]: Horse moved wrongly!
-[08:49:30] [Server thread/WARN]: Horse moved wrongly!
-[08:49:30] [Server thread/WARN]: Horse moved wrongly!
-[08:49:30] [Server thread/WARN]: Horse moved wrongly!
-[08:49:30] [Server thread/WARN]: Horse moved wrongly!
-[08:49:31] [Server thread/WARN]: Horse moved wrongly!
-[08:49:31] [Server thread/WARN]: Horse moved wrongly!
-[08:49:31] [Server thread/WARN]: Horse moved wrongly!
-[08:49:31] [Server thread/WARN]: Horse moved wrongly!
-[08:50:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[08:56:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[08:57:01] [Server thread/WARN]: youyue_nya moved wrongly!
-[08:59:48] [Server thread/WARN]: youyue_nya moved wrongly!
-[09:00:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2301ms or 46 ticks behind
-[09:12:18] [Server thread/WARN]: youyue_nya moved wrongly!
-[09:14:03] [Server thread/WARN]: youyue_nya moved wrongly!
-[09:16:34] [Server thread/WARN]: youyue_nya moved wrongly!
-[09:17:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 9.347193908445888,0.0,3.6581640250406053
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 9.488392731837848,0.0,3.7127037639174887
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 9.61547166952414,0.0,3.7617895276061972
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 9.729842710411958,0.0,3.805966713755879
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 9.832776644484284,0.0,3.845726180237307
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 9.925417182695128,0.0,3.881509699122489
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 10.008793664876066,0.0,3.913714865266229
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 10.083832496851073,0.0,3.942699514027481
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 10.15136744383949,0.0,3.968785697221847
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 10.212148894519032,0.0,3.992263261474818
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 10.30420219018174,0.0,4.027706541177395
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 10.424400145583832,0.0,4.073918964499626
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 10.569928294080455,0.0,4.129823616822705
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 10.73825361575814,0.0,4.194451275015581
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 10.927096392755175,0.0,4.266929638283273
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 11.134404879050635,0.0,4.346473635931034
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 11.358332503274141,0.0,4.432376704352464
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 11.59721872214368,0.0,4.523999355383239
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 11.849567675837989,0.0,4.620769630626
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 12.114033090553676,0.0,4.722172767536904
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 12.389403319899657,0.0,4.827745479838541
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 12.674587882152991,0.0,4.9370708098927025
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 12.968605343788795,0.0,5.049773495834415
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 13.270572414658318,0.0,5.165515801994388
-[09:21:02] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 13.579694133648673,0.0,5.2839937662784
-[09:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2621ms or 52 ticks behind
-[09:21:08] [Server thread/WARN]: youyue_nya moved wrongly!
-[09:37:51] [Server thread/INFO]: youyue_nya lost connection: Disconnected
-[09:37:51] [Server thread/INFO]: youyue_nya left the game
-[09:39:06] [Server thread/INFO]: youyue_nya[/183.195.13.229:14769] logged in with entity id 316930 at (1082.3074662053646, 63.0, 2227.072834134561)
-[09:39:06] [Server thread/INFO]: youyue_nya joined the game
-[10:08:11] [Server thread/WARN]: youyue_nya moved wrongly!
-[10:08:59] [Server thread/WARN]: youyue_nya moved wrongly!
-[10:12:09] [Server thread/INFO]: Unknown command
-[10:12:09] [Server thread/INFO]: gamemode spectator youyue_nya<--[HERE]
-[10:14:20] [Server thread/INFO]: Set youyue_nya's game mode to Spectator Mode
-[10:20:31] [Server thread/INFO]: Set youyue_nya's game mode to Survival Mode
-[10:27:40] [Server thread/WARN]: youyue_nya moved wrongly!
-[10:32:33] [Server thread/WARN]: youyue_nya moved wrongly!
-[10:34:09] [Server thread/WARN]: youyue_nya moved wrongly!
-[10:36:28] [Server thread/WARN]: youyue_nya moved wrongly!
-[10:46:04] [Server thread/WARN]: youyue_nya moved too quickly! -1.010198503463556,-3.6679340646866123,-9.412271893216484
-[10:46:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[10:56:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2816ms or 56 ticks behind
-[10:57:26] [Server thread/INFO]: youyue_nya lost connection: Disconnected
-[10:57:26] [Server thread/INFO]: youyue_nya left the game
-[11:21:16] [Server thread/INFO]: youyue_nya[/183.195.13.229:14885] logged in with entity id 343840 at (379.6458116562326, 63.0, 2477.0534056130527)
-[11:21:16] [Server thread/INFO]: youyue_nya joined the game
-[11:22:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[11:22:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
-[11:23:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[11:24:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[11:26:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
-[11:28:40] [Server thread/INFO]: youyue_nya lost connection: Disconnected
-[11:28:40] [Server thread/INFO]: youyue_nya left the game
-[11:28:41] [Server thread/INFO]: youyue_nya[/183.195.13.229:14494] logged in with entity id 346832 at (108.19936047469162, 61.78387795000591, 2759.5206385225456)
-[11:28:41] [Server thread/INFO]: youyue_nya joined the game
-[11:47:25] [Server thread/WARN]: youyue_nya moved wrongly!
-[11:51:31] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=561, y=71, z=2305} fk{x=563, y=70, z=2305}
-[11:51:31] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=561, y=71, z=2305} fk{x=563, y=70, z=2305}
-[11:51:34] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=572, y=69, z=2302} fk{x=571, y=68, z=2303}
-[11:55:15] [Server thread/WARN]: youyue_nya moved wrongly!
-[11:57:21] [Server thread/WARN]: youyue_nya moved wrongly!
-[12:03:01] [Server thread/INFO]: youyue_nya lost connection: Disconnected
-[12:03:01] [Server thread/INFO]: youyue_nya left the game
-[12:11:42] [Server thread/INFO]: youyue_nya[/183.195.13.229:14907] logged in with entity id 359436 at (268.11066696005, 63.0, 2533.5854752392734)
-[12:11:42] [Server thread/INFO]: youyue_nya joined the game
-[12:13:54] [Server thread/WARN]: youyue_nya moved wrongly!
-[12:16:10] [Server thread/WARN]: youyue_nya moved wrongly!
-[12:21:19] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! -1.641332914426357,0.0,10.256667243200809
-[12:21:19] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! -1.7092700586256342,0.0,10.650759099221887
-[12:21:19] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! -1.7773388508101675,0.0,11.044837688627922
-[12:22:07] [Server thread/WARN]: youyue_nya moved wrongly!
-[12:23:02] [Server thread/WARN]: youyue_nya moved wrongly!
-[12:27:50] [Server thread/WARN]: youyue_nya moved wrongly!
-[12:28:24] [Server thread/WARN]: youyue_nya moved wrongly!
-[12:31:18] [Server thread/WARN]: youyue_nya moved wrongly!
-[12:35:04] [Server thread/WARN]: youyue_nya moved wrongly!
-[12:36:19] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! -6.707377241917811,0.0,7.92781130295316
-[12:36:19] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! -6.967264412656391,0.0,8.231739432230825
-[12:36:19] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! -7.227202549904177,0.0,8.535638116655718
-[12:36:19] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! -7.487186557009068,0.0,8.839510300713755
-[12:36:19] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! -7.747211846984271,0.0,9.143358634441938
-[12:37:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[12:37:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[12:38:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2802ms or 56 ticks behind
-[12:39:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[12:41:30] [Server thread/WARN]: youyue_nya moved too quickly! 0.0,10.149945909042621,0.0
-[12:41:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3085ms or 61 ticks behind
-[12:48:20] [Server thread/WARN]: youyue_nya moved wrongly!
-[12:53:09] [Server thread/WARN]: youyue_nya moved wrongly!
-[12:55:15] [Server thread/INFO]: youyue_nya lost connection: Disconnected
-[12:55:15] [Server thread/INFO]: youyue_nya left the game
-[13:02:06] [Server thread/INFO]: youyue_nya[/183.195.13.229:14871] logged in with entity id 380236 at (-64.30000001192093, 65.0, 3685.5075093354644)
-[13:02:06] [Server thread/INFO]: youyue_nya joined the game
-[13:06:31] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 3.9789833458483006,0.0,9.33261178608609
-[13:06:31] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 4.132021229317786,0.0,9.700258892004058
-[13:06:31] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 4.285059114154889,0.0,10.06809645634894
-[13:06:31] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 4.438097000222847,0.0,10.436105433273497
-[13:06:31] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 4.5911348873985744,0.0,10.804268681515168
-[13:06:31] [Server thread/WARN]: Boat (vehicle of youyue_nya) moved too quickly! 4.744172775571295,0.0,11.172570773939242
-[13:06:32] [Server thread/WARN]: youyue_nya moved wrongly!
-[13:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[13:08:55] [Server thread/WARN]: youyue_nya moved wrongly!
-[13:14:54] [Server thread/INFO]: youyue_nya lost connection: Disconnected
-[13:14:54] [Server thread/INFO]: youyue_nya left the game
-[13:25:40] [Server thread/INFO]: youyue_nya[/183.195.13.229:14430] logged in with entity id 384476 at (93.42432547693399, 65.0, 3840.0694087182965)
-[13:25:40] [Server thread/INFO]: youyue_nya joined the game
-[13:41:33] [Server thread/WARN]: youyue_nya moved too quickly! -0.9448003814190145,-6.905402495000466,-7.454570949927302
-[13:41:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
-[13:55:29] [Server thread/INFO]: youyue_nya lost connection: Disconnected
-[13:55:29] [Server thread/INFO]: youyue_nya left the game
+[00:32:55] [Server thread/INFO]: youyue_nya[/183.195.13.229:14537] logged in with entity id 394506 at (66.29999997466803, 70.0000002, 155.29999997466803)
+[00:32:55] [Server thread/INFO]: youyue_nya joined the game
+[01:03:01] [Server thread/INFO]: youyue_nya has made the advancement [A Throwaway Joke]
+[01:30:28] [Server thread/INFO]: youyue_nya lost connection: Disconnected
+[01:30:28] [Server thread/INFO]: youyue_nya left the game
+[06:37:30] [Server thread/INFO]: youyue_nya[/183.195.13.229:15131] logged in with entity id 403714 at (78.4354235890765, 70.0, 154.08209390124367)
+[06:37:31] [Server thread/INFO]: youyue_nya joined the game
+[07:02:26] [Server thread/INFO]: youyue_nya lost connection: Disconnected
+[07:02:26] [Server thread/INFO]: youyue_nya left the game
+[07:02:29] [Server thread/INFO]: youyue_nya[/183.195.13.229:14785] logged in with entity id 408576 at (93.6884312216087, 66.0, 143.08986107940194)
+[07:02:29] [Server thread/INFO]: youyue_nya joined the game
+[07:02:43] [Server thread/INFO]: youyue_nya lost connection: Disconnected
+[07:02:43] [Server thread/INFO]: youyue_nya left the game
+[07:05:36] [Server thread/INFO]: youyue_nya[/183.195.13.229:15135] logged in with entity id 408607 at (93.62272376175102, 66.0, 137.8142238707302)
+[07:05:36] [Server thread/INFO]: youyue_nya joined the game
+[07:09:34] [Server thread/INFO]: youyue_nya lost connection: Disconnected
+[07:09:34] [Server thread/INFO]: youyue_nya left the game

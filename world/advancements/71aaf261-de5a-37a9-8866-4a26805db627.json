@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-01-22 13:25:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-01-10 22:02:22 +0800"
@@ -419,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2020-01-22 13:24:56 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/composter": {
     "criteria": {
       "has_wood_slab": "2020-01-09 19:58:39 +0800"
@@ -563,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2020-01-22 13:26:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-01-09 20:27:27 +0800"
@@ -663,9 +681,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-01-22 13:26:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-01-09 20:12:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-01-22 13:42:19 +0800"
     },
     "done": true
   },
@@ -753,6 +783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-01-22 13:26:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-01-09 20:30:59 +0800"
@@ -762,6 +798,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2020-01-11 00:01:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2020-01-22 13:26:28 +0800"
     },
     "done": true
   },
@@ -945,6 +987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2020-01-22 13:26:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-01-10 21:24:24 +0800"
@@ -1065,6 +1113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-01-22 13:26:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-01-09 20:30:48 +0800"
@@ -1080,6 +1134,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2020-01-09 21:28:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-01-22 13:26:28 +0800"
     },
     "done": true
   },
@@ -1588,6 +1648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2020-01-22 13:26:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2020-01-15 22:05:19 +0800"
@@ -1816,6 +1882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-01-22 13:26:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2020-01-09 20:25:35 +0800"
@@ -1860,8 +1932,10 @@
       "suspicious_stew": "2020-01-12 01:44:48 +0800",
       "cookie": "2020-01-15 23:33:48 +0800",
       "dried_kelp": "2020-01-11 20:39:01 +0800",
+      "golden_carrot": "2020-01-25 19:58:45 +0800",
       "enchanted_golden_apple": "2020-01-12 00:30:54 +0800",
       "cod": "2020-01-16 21:36:51 +0800",
+      "rabbit_stew": "2020-01-22 13:48:52 +0800",
       "cooked_salmon": "2020-01-11 22:57:20 +0800",
       "carrot": "2020-01-09 20:24:10 +0800"
     },

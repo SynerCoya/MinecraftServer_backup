@@ -4,5 +4,11 @@
     "name": "Hibiya",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c61c51c3-7cd3-3e65-847c-39ef09fe149b",
+    "name": "youyue_nya",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

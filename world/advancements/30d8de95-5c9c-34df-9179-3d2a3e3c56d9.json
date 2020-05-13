@@ -1443,6 +1443,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-02-14 11:40:02 +0800",
+      "cooked_beef": "2020-04-05 19:43:50 +0800",
       "baked_potato": "2020-02-29 14:31:45 +0800",
       "potato": "2020-03-03 21:30:10 +0800",
       "cooked_cod": "2020-03-03 23:05:46 +0800",
@@ -1921,6 +1922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-04-05 20:27:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-02-14 11:37:51 +0800"
@@ -2240,6 +2247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_the_recipe": "2020-04-05 19:40:53 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-02-26 23:54:42 +0800"
@@ -2249,6 +2262,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-03-05 20:12:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-04-05 20:27:19 +0800"
     },
     "done": true
   },
